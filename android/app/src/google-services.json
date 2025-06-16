@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318346303474",
+    "project_id": "meu-whatzapp",
+    "storage_bucket": "meu-whatzapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318346303474:android:7812437b3444cfa385bd6b",
+        "android_client_info": {
+          "package_name": "com.example.zap_model"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqfu5aC9yY4UtgWGS1dzENi23mQt7_upk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
